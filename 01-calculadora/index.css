@@ -1,0 +1,33 @@
+.buttonBlue
+{
+	background-color: #0000ff;
+	color:#ffffff;
+
+}
+
+.buttonGreen
+{
+	background-color: #00ff00;
+	color:#ffffff;
+}
+
+.buttonOrange
+{
+	background-color: #ff8000;
+	color:#ffffff;
+}
+
+.buttonRed
+{
+	background-color: #ff0000;
+	color:#ffffff;
+}
+
+.buttonlargo
+{
+	width:100%;
+}
+table
+{
+  background: #ff3385; 
+}
